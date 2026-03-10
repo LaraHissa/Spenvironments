@@ -56,6 +56,6 @@ The simulator generates the following files required by the Python scripts:
 
     /diff/: Files recording phenotypic differences between mating pairs at boundaries and globally.
 
-Contact: Lara D. Hissa (l171513@dac.unicamp.br)
+
 
 
