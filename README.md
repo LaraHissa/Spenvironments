@@ -27,9 +27,9 @@ The simulator manages the spatial environment, genetic compatibility, and evolut
 
 Once the simulation is complete, the scripts in the `figures/` folder are used to generate the paper's results:
 
-* **`temporal.ipynb`**: Plots the evolution of species richness and population size over time from `evolution_global.dat`.
-* **`histograms.ipynb`**: Generates 4x4 grids showing phenotypic distributions across different selection regimes.
-* **`distance.ipynb`**: Figures of IBD and the phenotypic divergence and variance, focusing on environmental boundaries too.
+* **`main_text.ipynb`**: All figures from the main text.
+* **`supplemental_material.ipynb`**:All figures from the supplementary material.
+
 
 
 ---
